@@ -16,7 +16,10 @@
 	"Plugins": [
 		{
 			"Name": "GoogleARCore",
-			"Enabled": true
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
 		},
 		{
 			"Name": "OculusVR",
